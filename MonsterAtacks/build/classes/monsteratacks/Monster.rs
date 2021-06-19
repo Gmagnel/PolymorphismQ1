@@ -1,0 +1,4 @@
+monsteratacks.StoneMonster
+monsteratacks.Monster
+monsteratacks.WaterMonster
+monsteratacks.FireMonster
